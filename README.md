@@ -82,7 +82,7 @@ TensorFlow Keras를 사용하여 CNN 모델(`build_model` 함수)을 구축했�
 
 ### 테스트 데이터 예측 결과 시각화 (`bestModelTest.py` 결과)
 2월 28일 테스트 데이터에 대한 예측 결과입니다. (왼쪽: 실제값, 가운데: 예측값, 오른쪽: 오차(절대값))
-(보고서 또는 `bestModelTest.py` 실행 결과의 시간대별 예측 결과 이미지들을 여기에 추가하세요. 예시: 00시, 01시, ...)
+
 
 ![Prediction vs Actual (00:00)](./result/20220228_00.png)
 ![Prediction vs Actual (01:00)](./result/20220228_01.png)
